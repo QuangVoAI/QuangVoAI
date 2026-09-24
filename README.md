@@ -11,7 +11,7 @@
 ---
 
 ## 🧬 Research Philosophy
-Tôi là sinh viên năm 3 ngành **Khoa học Máy tính (CLC)** tại ĐH Tôn Đức Thắng. Mục tiêu nghiên cứu của tôi là ứng dụng các kiến trúc Deep Learning tiên tiến nhất—từ **Transformers** đến **Medical Imaging Segmentation**—để hỗ trợ chẩn đoán lâm sàng và tối ưu hóa dữ liệu y tế.
+Tôi là sinh viên năm 4 ngành **Khoa học Máy tính (CLC)** tại ĐH Tôn Đức Thắng. Mục tiêu nghiên cứu của tôi là ứng dụng các kiến trúc Deep Learning tiên tiến nhất—từ **Transformers** đến **Medical Imaging Segmentation**—để hỗ trợ chẩn đoán lâm sàng và tối ưu hóa dữ liệu y tế.
 
 Tôi tin rằng sức mạnh của AI chỉ thực sự có ý nghĩa khi nó phục vụ việc cứu sống con người và cải thiện chất lượng chăm sóc sức khỏe toàn cầu.
 
